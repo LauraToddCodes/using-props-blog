@@ -2,15 +2,10 @@ import React from "react";
 import Selection from "./Selection";
 
 function App() {
-    const [ value, setValue ] = React.useState();
-
-    const handleChange = (event) => {
-        setValue(event.target.value)
-    }
 
     return (
         <React.Fragment>
-            <form onChange={handleChange}>
+            <form>
                 <h2>What's the best name for a dog?</h2>
                 <div>
                     <input type="radio" id="graham" value="Graham" name="name"/>
@@ -25,7 +20,6 @@ function App() {
                     <label for="Alan">Alan</label>
                 </div>
             </form>
-            <Selection selection={value}/>
         </React.Fragment>
     )
 }
