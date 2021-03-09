@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/style.css"],"names":[],"mappings":"AAAA,QACI,oBACJ,CAGA,GACI,WAAY,CACZ,WAAY,CACZ,YAAa,CACb,wBACJ","file":"main.52243e45.chunk.css","sourcesContent":["form, h3 {\r\n    margin: 30px 0 0 30px;\r\n}\r\n\r\n\r\nh3 {\r\n    width: 180px;\r\n    height: 40px;\r\n    padding: 20px;\r\n    background-color: #A8D9F8;\r\n}"]}

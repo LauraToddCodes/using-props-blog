@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/using-props-blog/static/css/main.52243e45.chunk.css",
+    "main.js": "/using-props-blog/static/js/main.8f9f25f2.chunk.js",
+    "main.js.map": "/using-props-blog/static/js/main.8f9f25f2.chunk.js.map",
+    "runtime-main.js": "/using-props-blog/static/js/runtime-main.3a337ed7.js",
+    "runtime-main.js.map": "/using-props-blog/static/js/runtime-main.3a337ed7.js.map",
+    "static/js/2.c23c926f.chunk.js": "/using-props-blog/static/js/2.c23c926f.chunk.js",
+    "static/js/2.c23c926f.chunk.js.map": "/using-props-blog/static/js/2.c23c926f.chunk.js.map",
+    "index.html": "/using-props-blog/index.html",
+    "static/css/main.52243e45.chunk.css.map": "/using-props-blog/static/css/main.52243e45.chunk.css.map",
+    "static/js/2.c23c926f.chunk.js.LICENSE.txt": "/using-props-blog/static/js/2.c23c926f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a337ed7.js",
+    "static/js/2.c23c926f.chunk.js",
+    "static/css/main.52243e45.chunk.css",
+    "static/js/main.8f9f25f2.chunk.js"
+  ]
+}
